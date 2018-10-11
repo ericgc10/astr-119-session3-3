@@ -22,7 +22,7 @@ print(alpha_list) #will print list
 #Tuple-- ordered and unchangeable
 
 alpha_tuple = ("a","b","c") #tuple initialization
-print(type(alpha_tupe)) #will say tuple
+print(type(alpha_tuple)) #will say tuple
 						#attempt the following line
 try:
 	alpha_tuple[2] = "d" #won't work and will raise TypeError
